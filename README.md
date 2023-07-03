@@ -2,7 +2,16 @@
 The code provided is written in Python and is used to retrieve the Wi-Fi profiles and passwords stored on a Windows computer 
 
 
-:white_square_button:Here's a breakdown of how the code works::wavy_dash:
+##HOW TO RUN:wavy_dash:
+:white_square_button:Open up your favourite terminal(cmd,powershell)
+:white_square_button:"cd" to the directory where the python file is downloaded
+:white_square_button:run the command:
+```python
+python win-10_wifi.py
+```
+
+
+##Here's a breakdown of how the code works::wavy_dash:
 
 :small_blue_diamond:It imports the necessary modules (subprocess and re) for executing shell commands and performing regular expression operations, respectively.
 
@@ -37,3 +46,5 @@ The code provided is written in Python and is used to retrieve the Wi-Fi profile
 :red_circle:Note that to execute this code successfully, you need to have the necessary permissions and be running it on a Windows computer with the netsh command-line tool available.
 
 Please let me know if you have any further questions!
+
+
