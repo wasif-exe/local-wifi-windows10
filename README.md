@@ -15,7 +15,7 @@ python win-10_wifi.py
 ```
 
 
-##Here's a breakdown of how the code works::wavy_dash:
+:red_circle:Here's a breakdown of how the code works::wavy_dash:
 
 :small_blue_diamond:It imports the necessary modules (subprocess and re) for executing shell commands and performing regular expression operations, respectively.
 
