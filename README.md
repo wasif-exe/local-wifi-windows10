@@ -2,7 +2,8 @@
 The code provided is written in Python and is used to retrieve the Wi-Fi profiles and passwords stored on a Windows computer 
 
 
-##HOW TO RUN
+:red_circle:HOW TO RUN
+
 :white_square_button:Open up your favourite terminal(cmd,powershell)
 :white_square_button:"cd" to the directory where the python file is downloaded
 :white_square_button:run the command:
