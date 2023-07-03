@@ -1,5 +1,5 @@
 # local-wifi-windows10
-The code you provided is written in Python and is used to retrieve the Wi-Fi profiles and passwords stored on a Windows computer 
+The code provided is written in Python and is used to retrieve the Wi-Fi profiles and passwords stored on a Windows computer 
 
 
 :white_square_button:Here's a breakdown of how the code works::wavy_dash:
